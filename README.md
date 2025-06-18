@@ -7,7 +7,6 @@ A minimal, focus-enhancing Pomodoro Timer designed to boost your productivity wi
 ## 🚀 Features
 
 - **Live Clock:** Always stay aware of the current time.
-- **Pomodoro Timer:** Classic 25-minute focus sessions with break timers.
 - **Stopwatch:** Track how long you've studied in a session or throughout the day.
 - **Rain Music Control:** Ambient rain sounds to help you concentrate and relax.
 - **Responsive Design:** Works beautifully on desktop and mobile devices.
