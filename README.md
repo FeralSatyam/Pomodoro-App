@@ -1,12 +1,27 @@
-# React + Vite
+# ⏱️ Pomodoro App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal, focus-enhancing Pomodoro Timer designed to boost your productivity with a **live clock**, **study stopwatch**, and built-in **rain music** for a calming work atmosphere.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Live Clock:** Always stay aware of the current time.
+- **Pomodoro Timer:** Classic 25-minute focus sessions with break timers.
+- **Stopwatch:** Track how long you've studied in a session or throughout the day.
+- **Rain Music Control:** Ambient rain sounds to help you concentrate and relax.
+- **Responsive Design:** Works beautifully on desktop and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+![alt text](image.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript and React
+
+---
