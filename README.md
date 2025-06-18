@@ -25,3 +25,12 @@ A minimal, focus-enhancing Pomodoro Timer designed to boost your productivity wi
 - HTML, CSS, JavaScript and React
 
 ---
+
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ by Satyam Rana(https://github.com/FeralSatyam)
